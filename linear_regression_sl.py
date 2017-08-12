@@ -1,3 +1,4 @@
+#Linear regression using one variable
 from numpy import loadtxt, zeros, ones, array
 from pylab import scatter, show, title, xlabel, ylabel, plot
 
