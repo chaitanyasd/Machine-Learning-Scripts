@@ -1,3 +1,4 @@
+# Linear regression on multiple variables
 from numpy import loadtxt, zeros, ones, array, linspace, logspace, mean, std, arange
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
