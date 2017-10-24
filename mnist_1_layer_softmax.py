@@ -1,4 +1,4 @@
-"""
+""" 
 mnist using 1 layer and using softmax crosss entropy with logits
 Accuracy : 0.922
 
